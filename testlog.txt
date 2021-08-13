@@ -1,2 +1,1 @@
-add git text for diff, powerfor
-check how the git working
+Creating a new branch is quick & simple.
